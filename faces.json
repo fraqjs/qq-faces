@@ -4016,6 +4016,20 @@
         "aniStickerWidth": 0,
         "aniStickerHeight": 0
     },
+    "488": {
+        "qSid": "488",
+        "qDes": "/开学大吉",
+        "emCode": "10488",
+        "qCid": 0,
+        "aniStickerType": 1,
+        "aniStickerPackId": 1,
+        "aniStickerId": 90,
+        "baseUrl": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/488_base_1787730114.zip",
+        "advUrl": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/488_adv_1787730114.zip",
+        "emojiNameAlias": [],
+        "aniStickerWidth": 0,
+        "aniStickerHeight": 0
+    },
     "😊": {
         "qSid": "😊",
         "qDes": "/嘿嘿",
